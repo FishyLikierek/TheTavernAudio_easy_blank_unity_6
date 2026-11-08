@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{69d05893-aaad-4bed-9586-f7f614294e37}">
+		<property name="assetPath">
+			<value>Rock_Land_1.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.23396825396825396</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8a64bb46-44b1-4f4a-9ecf-dd4361bd4703}</destination>
+		</relationship>
+	</object>
+</objects>

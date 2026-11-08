@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{3ae530ec-6fe4-4cf6-9712-c233d0febcf0}">
+		<property name="assetPath">
+			<value>Rock_Step_4.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.21494331065759636</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8a64bb46-44b1-4f4a-9ecf-dd4361bd4703}</destination>
+		</relationship>
+	</object>
+</objects>

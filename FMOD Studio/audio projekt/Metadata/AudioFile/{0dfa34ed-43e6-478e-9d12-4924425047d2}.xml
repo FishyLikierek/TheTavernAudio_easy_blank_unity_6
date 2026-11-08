@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{0dfa34ed-43e6-478e-9d12-4924425047d2}">
+		<property name="assetPath">
+			<value>FTTAVERNPEEPS.flac</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>89.233446712018136</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8a64bb46-44b1-4f4a-9ecf-dd4361bd4703}</destination>
+		</relationship>
+	</object>
+</objects>

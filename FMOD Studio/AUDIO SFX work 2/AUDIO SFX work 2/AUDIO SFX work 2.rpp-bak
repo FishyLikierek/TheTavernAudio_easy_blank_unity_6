@@ -1,0 +1,1849 @@
+<REAPER_PROJECT 0.1 "6.81/win64" 1781943003
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3455 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0.14215685174823
+  ZOOM 85.76628742836851 0 0
+  VZOOMEX 4.875 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0.28849478737141 1.96092833735061
+  SELECTION2 0.28849478737141 1.96092833735061
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {15727A86-F84F-4211-814F-380F65F56B33}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {FC28D1D6-7EC1-4048-9E8E-646C299DC97E}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {5EE273AE-AB59-48BA-BEAA-2F76B5CA59DC}
+    NAME 840915__newlocknew__ambforst_late-springforest-edgemorningbyrds
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5EE273AE-AB59-48BA-BEAA-2F76B5CA59DC}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 27.48485881332456
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.01 11.593726 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {97C61B2A-CFF1-4391-8BE8-865CEF7778A5}
+      IID 1
+      NAME 840915__newlocknew__ambforst_late-springforest-edgemorningbyrds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 42
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {38818D36-FF01-4E02-B84B-F8D9BC1C1260}
+      <SOURCE WAVE
+        FILE "840915__newlocknew__ambforst_late-springforest-edgemorningbyrds.wav"
+      >
+    >
+    <ITEM
+      POSITION 15.89113288430179
+      SNAPOFFS 0
+      LENGTH 48.32417313616394
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 11.593726 1 1 0 0
+      FADEOUT 1.1 0.01 22 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FCF5A096-DEF3-4575-BA19-C1090E53FDAB}
+      IID 1
+      NAME 840915__newlocknew__ambforst_late-springforest-edgemorningbyrds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 173.67582686383597
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9D313F81-63B3-472D-B7B7-56A7585184C4}
+      <SOURCE WAVE
+        FILE "840915__newlocknew__ambforst_late-springforest-edgemorningbyrds.wav"
+      >
+    >
+    <ITEM
+      POSITION 15.99999
+      SNAPOFFS 0
+      LENGTH 0.00001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6D803D9E-EB2C-4BF2-B1AD-D8B99DB5E48F}
+      IID 1
+      NAME 840915__newlocknew__ambforst_late-springforest-edgemorningbyrds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 15.99999
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3D84571D-1E7D-443E-AC14-1095DDCE4271}
+      <SOURCE WAVE
+        FILE "840915__newlocknew__ambforst_late-springforest-edgemorningbyrds.wav"
+      >
+    >
+    <ITEM
+      POSITION 42.21530602046582
+      SNAPOFFS 0
+      LENGTH 42
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 22 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {61709448-0A6B-4A8B-B9C9-FF39CB4F8F46}
+      IID 1
+      NAME 840915__newlocknew__ambforst_late-springforest-edgemorningbyrds.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3572258C-D42F-4258-B167-0CC365D3AFAF}
+      <SOURCE WAVE
+        FILE "840915__newlocknew__ambforst_late-springforest-edgemorningbyrds.wav"
+      >
+    >
+  >
+  <TRACK {341E6595-32CF-46F3-B44A-8A3CCF87EC10}
+    NAME 545637__patermarekop__fire-crackles-in-the-fireplace
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {341E6595-32CF-46F3-B44A-8A3CCF87EC10}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 32.15548841558886
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.01 12.934051 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {69300080-CAD7-4FA7-A76B-FA6CB3EC6DC9}
+      IID 2
+      NAME 545637__patermarekop__fire-crackles-in-the-fireplace.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1BFD57B7-A19B-49EB-BC70-EFA54224DBED}
+      <SOURCE MP3
+        FILE "545637__patermarekop__fire-crackles-in-the-fireplace.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 19.22143720931848
+      SNAPOFFS 0
+      LENGTH 56.96633756405916
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 12.934051 1 1 0 0
+      FADEOUT 1.1 0 19.893488 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4A24E585-AF7A-420D-A115-59C6C301FCD1}
+      IID 2
+      NAME 545637__patermarekop__fire-crackles-in-the-fireplace.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 194.95689489257524
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {30D41B1B-154A-46D9-9FB5-A46BBE951682}
+      <SOURCE MP3
+        FILE "545637__patermarekop__fire-crackles-in-the-fireplace.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 56.29428723001057
+      SNAPOFFS 0
+      LENGTH 20.47025508673271
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 19.893488 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BA7C5259-3954-4D51-B7D6-F4650236AA25}
+      IID 2
+      NAME 545637__patermarekop__fire-crackles-in-the-fireplace.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 235.5068877704102
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {379F2FE1-C25D-40DC-8AE6-8E9F3CB5386D}
+      <SOURCE MP3
+        FILE "545637__patermarekop__fire-crackles-in-the-fireplace.mp3" 1
+      >
+    >
+  >
+  <TRACK {444D3BA2-DDF4-449C-8B82-B9BEC5FEDB21}
+    NAME "Tavern Ambience"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {444D3BA2-DDF4-449C-8B82-B9BEC5FEDB21}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 41.67638722020456
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.01 9.341259 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {51393D7F-5478-40CD-B301-617938E5C841}
+      IID 3
+      NAME Tavern_Ambience.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 10
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC647DC8-7564-4FB6-9F7A-3B4A8E074097}
+      <SOURCE MP3
+        FILE "Tavern_Ambience.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 32.33512801567596
+      SNAPOFFS 0
+      LENGTH 15.9879244077509
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 9.341259 1 1 0 0
+      FADEOUT 1.1 0.01 4.31135 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {655F7E0E-62CE-4BA8-B91A-2841D7F80BCA}
+      IID 3
+      NAME Tavern_Ambience.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 86.70610923718684
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BF14FAF5-651F-4A3D-A87F-E5DAA499E00C}
+      <SOURCE MP3
+        FILE "Tavern_Ambience.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 44.01170202133666
+      SNAPOFFS 0
+      LENGTH 17.96396000870887
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 4.31135 1 1 0 0
+      FADEOUT 1.1 0.01 12.754412 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D68C2E60-2542-4F46-BE97-00F1DE54DE24}
+      IID 3
+      NAME Tavern_Ambience.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 118.09573432765075
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C61B3A8F-C152-439A-A1D2-C0D2F962AACA}
+      <SOURCE MP3
+        FILE "Tavern_Ambience.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 49.22125042386229
+      SNAPOFFS 0
+      LENGTH 38.52584965441739
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 12.754412 1 1 0 0
+      FADEOUT 1.1 0.01 18.585854 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {22B4B52C-6AAA-4160-8C7D-6688336EA07B}
+      IID 3
+      NAME Tavern_Ambience.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 141.98780113923354
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B04143A9-27DA-4614-8BC7-ED7043FFB251}
+      <SOURCE MP3
+        FILE "Tavern_Ambience.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 69.16124603352904
+      SNAPOFFS 0
+      LENGTH 20.07220325109961
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 18.585854 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5419D48E-A910-45BE-881F-933C3C2849D5}
+      IID 3
+      NAME Tavern_Ambience.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 170.44144754255117
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {77527744-794E-4E4F-8E71-1A001146FA87}
+      <SOURCE MP3
+        FILE "Tavern_Ambience.mp3" 1
+      >
+    >
+  >
+  <TRACK {02133768-067D-4118-B739-2E55CC5C1AC4}
+    NAME "Goblinized - Music"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {02133768-067D-4118-B739-2E55CC5C1AC4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 146.60572015534697
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {58D6B2BF-C753-433C-89E7-F9D278F7FD90}
+      IID 4
+      NAME "Goblinized - Adrian von Ziegler"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82F318B5-F91B-4D35-A807-588C8020DFBB}
+      <SOURCE MP3
+        FILE "YTDown_YouTube_Fantasy-Music-Goblinized_Media_ogqFB5-4pBk_007_128k.mp3" 1
+      >
+    >
+  >
+  <TRACK {070AC60A-C640-4798-9B1A-BA850EF92B55}
+    NAME "Wood Walk"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {070AC60A-C640-4798-9B1A-BA850EF92B55}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.02360663408147
+      SNAPOFFS 0
+      LENGTH 0.72534737405173
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6F7F0908-2816-4141-805A-F2C3A4D3B266}
+      IID 26
+      NAME soundreality-footsteps-walking-boots-parquet-1-420135.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27465262594827
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D5FB0889-364B-4F14-B9A4-374A45B3FA2A}
+      <SOURCE MP3
+        FILE "soundreality-footsteps-walking-boots-parquet-1-420135.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 0.92746112387426
+      SNAPOFFS 0
+      LENGTH 0.66426120417464
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D201D930-4A99-459F-84CE-312626E1945B}
+      IID 26
+      NAME soundreality-footsteps-walking-boots-parquet-1-420135.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 8.33573879582536
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B274C17F-26FE-4108-AD15-90F0B78792C6}
+      <SOURCE MP3
+        FILE "soundreality-footsteps-walking-boots-parquet-1-420135.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 1.88390540786959
+      SNAPOFFS 0
+      LENGTH 0.66032676516105
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {184F8B43-B7C4-4763-982E-4C4EC2540648}
+      IID 26
+      NAME soundreality-footsteps-walking-boots-parquet-1-420135.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.83967323483895
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46D74D3C-8FF6-4302-B73C-10FE49097A49}
+      <SOURCE MP3
+        FILE "soundreality-footsteps-walking-boots-parquet-1-420135.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 2.97077391240973
+      SNAPOFFS 0
+      LENGTH 0.44283714432631
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9E7018B1-7399-4E7B-BB9C-9BC62F9C3519}
+      IID 26
+      NAME soundreality-footsteps-walking-boots-parquet-1-420135.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 2.55716285567369
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A666BCA1-AAF1-43A5-93FC-85939596D37D}
+      <SOURCE MP3
+        FILE "soundreality-footsteps-walking-boots-parquet-1-420135.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 3.68086133537596
+      SNAPOFFS 0
+      LENGTH 0.5326538824139
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {404804C1-220C-4C88-B664-3FB80855D7B5}
+      IID 26
+      NAME soundreality-footsteps-walking-boots-parquet-1-420135.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.24416704662648
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DE8BFBEB-C1EB-475C-994B-02A5F0405448}
+      <SOURCE MP3
+        FILE "soundreality-footsteps-walking-boots-parquet-1-420135.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 4.41268612843299
+      SNAPOFFS 0
+      LENGTH 0.43474740181606
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {641DE3DA-4DF5-46C9-AB25-7ED9884FADAE}
+      IID 26
+      NAME soundreality-footsteps-walking-boots-parquet-1-420135.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.03145546795044
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C0A7D6EB-8630-4636-A36E-035360321D3D}
+      <SOURCE MP3
+        FILE "soundreality-footsteps-walking-boots-parquet-1-420135.mp3" 1
+      >
+    >
+  >
+  <TRACK {859F0ADE-8742-4D58-97E4-E03E4944675C}
+    NAME "Wood Jump"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {859F0ADE-8742-4D58-97E4-E03E4944675C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.11673895113049
+      SNAPOFFS 0
+      LENGTH 0.38523853873062
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {43953BE7-C4B8-4326-8A01-679082F52503}
+      IID 66
+      NAME freesound_community-floor-creak-1-73797.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.81336643364575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CBCA2430-DC7B-4E72-9070-25091C4F2D54}
+      <SOURCE MP3
+        FILE "freesound_community-floor-creak-1-73797.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 1.84203286926019
+      SNAPOFFS 0
+      LENGTH 0.44829696691422
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AF4DA6DA-9D30-4BCA-87C8-E9AB246DE909}
+      IID 66
+      NAME freesound_community-floor-creak-1-73797.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.32746957671998
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0313F3E9-0D4B-4DE3-9EF9-7F12985B569E}
+      <SOURCE MP3
+        FILE "freesound_community-floor-creak-1-73797.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 4.40105845761955
+      SNAPOFFS 0
+      LENGTH 0.34112618168816
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {859C3462-CC25-4CB6-9836-71956674618F}
+      IID 66
+      NAME freesound_community-floor-creak-1-73797.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 9.47259479729099
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B12A5AF5-5DEE-46B5-B3FD-4432E604BBAF}
+      <SOURCE MP3
+        FILE "freesound_community-floor-creak-1-73797.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 6.74751137534244
+      SNAPOFFS 0
+      LENGTH 0.41442327651325
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F9FD28FC-7D3E-4EEA-AD09-9275F2FAC047}
+      IID 66
+      NAME freesound_community-floor-creak-1-73797.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 18.77214699595583
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C8BE648-C93F-4D0D-BF6D-3C0443B22E3F}
+      <SOURCE MP3
+        FILE "freesound_community-floor-creak-1-73797.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 8.8955080761435
+      SNAPOFFS 0
+      LENGTH 0.34437990583495
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2B6088C8-F7C9-4B3B-969F-F7F512320758}
+      IID 66
+      NAME freesound_community-floor-creak-1-73797.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 20.15879697990907
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F182C41A-52E0-4BBA-97A2-6BEB4BDA5116}
+      <SOURCE MP3
+        FILE "freesound_community-floor-creak-1-73797.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 10.97929835382278
+      SNAPOFFS 0
+      LENGTH 0.28601043026971
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {65836EBC-6C29-42AA-94DF-F60319BC229D}
+      IID 66
+      NAME freesound_community-floor-creak-1-73797.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 21.31950672458867
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {03DE40B1-B506-44F8-BD27-5AB25E714A63}
+      <SOURCE MP3
+        FILE "freesound_community-floor-creak-1-73797.mp3" 1
+      >
+    >
+  >
+  <TRACK {FE8B2BE9-EFF3-428E-8844-27C8A9AEDCD9}
+    NAME "Wood Land"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FE8B2BE9-EFF3-428E-8844-27C8A9AEDCD9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.75585493855993
+      SNAPOFFS 0
+      LENGTH 0.35021685339147
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0 0.317354 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BE7B9F49-1507-4DAD-A36D-A38B73BB56F5}
+      IID 26
+      NAME soundreality-footsteps-walking-boots-parquet-1-420135.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27465262594827
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE5154E1-090D-4AFA-98B5-30B543C65CB3}
+      <SOURCE MP3
+        FILE "soundreality-footsteps-walking-boots-parquet-1-420135.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 0.78871819675819
+      SNAPOFFS 0
+      LENGTH 0.48690216388645
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.317354 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B7C2E767-D957-41EA-BF63-245D91EB2134}
+      IID 66
+      NAME freesound_community-floor-creak-1-73797.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 20.60824571108477
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {22A6F011-D1C2-4A32-AFEC-6431FBEE7643}
+      <SOURCE MP3
+        FILE "freesound_community-floor-creak-1-73797.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 2.95250404120371
+      SNAPOFFS 0
+      LENGTH 0.36189074850453
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0 0.348486 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4C09BB79-9ABF-4499-AB65-F6190EF36971}
+      IID 26
+      NAME soundreality-footsteps-walking-boots-parquet-1-420135.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 8.33573879582536
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8D0C7E90-A803-4F4A-B92E-0DB1687468D5}
+      <SOURCE MP3
+        FILE "soundreality-footsteps-walking-boots-parquet-1-420135.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 2.96590905239276
+      SNAPOFFS 0
+      LENGTH 0.4138173453883
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.348486 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B280D9CB-1B00-412E-97EB-ADE51429C3C9}
+      IID 66
+      NAME freesound_community-floor-creak-1-73797.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 21.70377557982929
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {70CA79CE-230A-483E-9B1A-F1152E216787}
+      <SOURCE MP3
+        FILE "freesound_community-floor-creak-1-73797.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 5.53745900640642
+      SNAPOFFS 0
+      LENGTH 0.29184737782623
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0 0.217905 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CCB8EFD3-DEF5-4FF1-93F7-87A7F4555B00}
+      IID 26
+      NAME soundreality-footsteps-walking-boots-parquet-1-420135.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.83967323483895
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7F076BC6-EA65-4A22-A6FB-E7D10B288CDB}
+      <SOURCE MP3
+        FILE "soundreality-footsteps-walking-boots-parquet-1-420135.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 5.6114013373525
+      SNAPOFFS 0
+      LENGTH 0.34592095264787
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.217905 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8B5AB0B6-3C3F-487C-AB02-B43839EBFC43}
+      IID 66
+      NAME freesound_community-floor-creak-1-73797.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 22.70734426255588
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82CAF1A3-FB0C-46D3-AE30-82D73E9FA278}
+      <SOURCE MP3
+        FILE "freesound_community-floor-creak-1-73797.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 7.92004522578009
+      SNAPOFFS 0
+      LENGTH 0.34506421108171
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.328633 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3F63D8F0-68FC-463F-8843-4B5CD3BEAF83}
+      IID 26
+      NAME soundreality-footsteps-walking-boots-parquet-1-420135.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 2.55716285567369
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {92B8E015-996D-412F-9B72-7478E8965F0F}
+      <SOURCE MP3
+        FILE "soundreality-footsteps-walking-boots-parquet-1-420135.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 7.93647685487922
+      SNAPOFFS 0
+      LENGTH 0.41667751114402
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.328633 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9399BE41-BC0E-4391-B5E2-637C67C28F74}
+      IID 66
+      NAME freesound_community-floor-creak-1-73797.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 23.43849536701616
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B400786F-F466-45D0-B7B6-E1C56957AFE8}
+      <SOURCE MP3
+        FILE "freesound_community-floor-creak-1-73797.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 9.8589774594773
+      SNAPOFFS 0
+      LENGTH 0.27433653515666
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.241473 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3BC95259-A0F5-4C9E-8DCA-66B6B0F0912D}
+      IID 26
+      NAME soundreality-footsteps-walking-boots-parquet-1-420135.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.24416704662648
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8C004771-1A12-469B-9255-EC91F652C8CC}
+      <SOURCE MP3
+        FILE "soundreality-footsteps-walking-boots-parquet-1-420135.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 9.89184071767555
+      SNAPOFFS 0
+      LENGTH 0.35990268356789
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.241473 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {23B26259-BF06-4FA3-B39B-6B30826E8113}
+      IID 66
+      NAME freesound_community-floor-creak-1-73797.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 23.07422418483814
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B6409DC0-2F56-44E1-8007-3AF8C50CDD71}
+      <SOURCE MP3
+        FILE "freesound_community-floor-creak-1-73797.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 11.83077295137275
+      SNAPOFFS 0
+      LENGTH 0.29184737782623
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.283632 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {41BE2113-CCF4-43BA-95A7-5F0501C34760}
+      IID 26
+      NAME soundreality-footsteps-walking-boots-parquet-1-420135.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.03145546795044
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {249DC652-9764-417F-8AE0-BAA15B30E243}
+      <SOURCE MP3
+        FILE "soundreality-footsteps-walking-boots-parquet-1-420135.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 11.83898876592231
+      SNAPOFFS 0
+      LENGTH 0.39435909837909
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.283632 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BD35CBE7-B62D-4663-A9BD-A6CC1ACD2BD5}
+      IID 66
+      NAME freesound_community-floor-creak-1-73797.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 18.80465869238111
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {80807146-95C9-49B8-96EA-9C14E51E4C77}
+      <SOURCE MP3
+        FILE "freesound_community-floor-creak-1-73797.mp3" 1
+      >
+    >
+  >
+  <TRACK {EB6ECB98-A3DE-450E-8E4B-1D81494A490B}
+    NAME "Rock Steps"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EB6ECB98-A3DE-450E-8E4B-1D81494A490B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.49999431254987
+      SNAPOFFS 0
+      LENGTH 0.23412432095589
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {75FB16B3-32E2-46F9-80DF-4D8FD9A3974C}
+      IID 25
+      NAME freesound_community-073303_footsteps-on-stone-39947.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.05952313244641
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1CFD7155-2BF9-4810-91C0-18488FDC40B1}
+      <SOURCE MP3
+        FILE "freesound_community-073303_footsteps-on-stone-39947.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 1.32141354031038
+      SNAPOFFS 0
+      LENGTH 0.24206073861542
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4A3B0D92-E6CB-42A6-B402-445D08C81FCE}
+      IID 25
+      NAME freesound_community-073303_footsteps-on-stone-39947.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.66639787168756
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7C707F22-A4AB-423B-AE01-8AC755E9844C}
+      <SOURCE MP3
+        FILE "freesound_community-073303_footsteps-on-stone-39947.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 2.22616515349587
+      SNAPOFFS 0
+      LENGTH 0.27057899572323
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A3E007D0-6F9B-4EB5-A1F2-8C9443F53AAC}
+      IID 25
+      NAME freesound_community-073303_footsteps-on-stone-39947.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.22942100427677
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5E5B271D-4D13-4964-9D37-52EBB6DE8671}
+      <SOURCE MP3
+        FILE "freesound_community-073303_footsteps-on-stone-39947.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 3.20234452561705
+      SNAPOFFS 0
+      LENGTH 0.21493977306962
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B8A930F3-DAAF-4699-A1D7-0BB55996F4C0}
+      IID 25
+      NAME freesound_community-073303_footsteps-on-stone-39947.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.78506022693038
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5D5F5C47-0794-44B1-8279-40EC94D47C83}
+      <SOURCE MP3
+        FILE "freesound_community-073303_footsteps-on-stone-39947.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 3.98011345625018
+      SNAPOFFS 0
+      LENGTH 0.31935410471453
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8DCCDFD0-F367-4C33-9B97-24D3FFFF686F}
+      IID 25
+      NAME freesound_community-073303_footsteps-on-stone-39947.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 2.36285117939078
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1CF5A006-749D-4F9D-AB88-7BC41C4F0E85}
+      <SOURCE MP3
+        FILE "freesound_community-073303_footsteps-on-stone-39947.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 4.71820029858571
+      SNAPOFFS 0
+      LENGTH 0.28567691104202
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A18BC1A7-670A-43C9-AA81-D69239A44029}
+      IID 25
+      NAME freesound_community-073303_footsteps-on-stone-39947.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CEF7A6B0-5DE6-443D-A073-6C1E70E3A528}
+      <SOURCE MP3
+        FILE "freesound_community-073303_footsteps-on-stone-39947.mp3" 1
+      >
+    >
+  >
+  <TRACK {B7F8F301-A04A-417D-B6BA-FFFB6C3CBC95}
+    NAME "Rock Jump"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B7F8F301-A04A-417D-B6BA-FFFB6C3CBC95}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.19232985824761
+      SNAPOFFS 0
+      LENGTH 0.38802269705391
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.321943 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1AFDB314-C1A4-4FB7-AD1E-609DD9392975}
+      IID 102
+      NAME freesound_community-boot-scuffle-small-rocks-83368.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.65844839060266
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1067A5CC-B138-496B-939C-EDD44F429719}
+      <SOURCE MP3
+        FILE "freesound_community-boot-scuffle-small-rocks-83368.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 0.98255471061278
+      SNAPOFFS 0
+      LENGTH 0.39762918454065
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.334487 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {02E88767-594A-4010-BC12-DCC2AF4B4A85}
+      IID 102
+      NAME freesound_community-boot-scuffle-small-rocks-83368.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 6.85279647106293
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B16F0282-012E-4517-BC36-3DF9D176B69B}
+      <SOURCE MP3
+        FILE "freesound_community-boot-scuffle-small-rocks-83368.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 1.63898487897962
+      SNAPOFFS 0
+      LENGTH 0.36164865711434
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.275952 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2677B4BB-50BD-4A3D-B3A0-B8B5103780D3}
+      IID 102
+      NAME freesound_community-boot-scuffle-small-rocks-83368.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 7.50504555555483
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D13D821E-35F9-4E70-BE91-9F028BCE5CF5}
+      <SOURCE MP3
+        FILE "freesound_community-boot-scuffle-small-rocks-83368.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 2.38739889259531
+      SNAPOFFS 0
+      LENGTH 0.35819628721296
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.296857 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6D685C23-ACA8-4D40-9A3A-3B9032574B1B}
+      IID 102
+      NAME freesound_community-boot-scuffle-small-rocks-83368.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 9.24855753140815
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA665D46-2527-40CA-ABE6-E5D171D8F4F4}
+      <SOURCE MP3
+        FILE "freesound_community-boot-scuffle-small-rocks-83368.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 3.05637231258699
+      SNAPOFFS 0
+      LENGTH 0.34132810208735
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.275952 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EA9666AB-B67F-4ED3-8E85-D74D10174299}
+      IID 102
+      NAME freesound_community-boot-scuffle-small-rocks-83368.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 11.3349183850072
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3255C97-2F70-4907-8396-0AC901C2AC5A}
+      <SOURCE MP3
+        FILE "freesound_community-boot-scuffle-small-rocks-83368.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 3.6751727260793
+      SNAPOFFS 0
+      LENGTH 0.31132173561004
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.259227 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FFFEC187-6BDB-42B6-8BF7-56BD35C7A05C}
+      IID 102
+      NAME freesound_community-boot-scuffle-small-rocks-83368.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 10.03878238377332
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9A31CF47-9E28-480F-BD17-A7B239706840}
+      <SOURCE MP3
+        FILE "freesound_community-boot-scuffle-small-rocks-83368.mp3" 1
+      >
+    >
+  >
+  <TRACK {7C8EB4BA-7483-41C2-9FC6-A283B1A2F297}
+    NAME "Rock Land"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7C8EB4BA-7483-41C2-9FC6-A283B1A2F297}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
+        Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAP65HYT4pXM8+x0tXP0a2Uz8AAAA/mpkZPwIrBz4AAIA/AAAAPw==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {B3C55C66-412D-4792-B4CC-6A117BC32261}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0.26758936799667
+      SNAPOFFS 0
+      LENGTH 0.19651094212256
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.158881 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {706CBE09-1DFB-4747-82B8-3EDD72FE4604}
+      IID 124
+      NAME freesound_community-footsteps-boots-101657.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 2.55046116371827
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DADBC1D6-88CA-4535-A544-D15F275E34D0}
+      <SOURCE MP3
+        FILE "freesound_community-footsteps-boots-101657.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 0.3052191228712
+      SNAPOFFS 0
+      LENGTH 0.19632935346124
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.158881 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BF4F2B96-7528-4A64-82E9-D087BBCF1CA6}
+      IID 25
+      NAME freesound_community-073303_footsteps-on-stone-39947.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.09731809994106
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {995A15D8-F788-4E15-A9E0-F5EB775C7FDE}
+      <SOURCE MP3
+        FILE "freesound_community-073303_footsteps-on-stone-39947.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 0.77350051686538
+      SNAPOFFS 0
+      LENGTH 0.29267587124636
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.182524 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F8C2D6B2-C9F0-4C04-954B-06ED7FC0B694}
+      IID 124
+      NAME freesound_community-footsteps-boots-101657.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.1298788127435
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF3FA1D4-0959-474F-9E1D-2B114FF4C3A9}
+      <SOURCE MP3
+        FILE "freesound_community-footsteps-boots-101657.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 0.88365262199613
+      SNAPOFFS 0
+      LENGTH 0.24206073861542
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.182524 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CF0F76BB-433D-4DB8-ACC9-5B7A69F3F2C1}
+      IID 25
+      NAME freesound_community-073303_footsteps-on-stone-39947.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.66639787168756
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F3C0B9FB-3816-4986-A998-906E46F975E8}
+      <SOURCE MP3
+        FILE "freesound_community-073303_footsteps-on-stone-39947.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 1.39329143798138
+      SNAPOFFS 0
+      LENGTH 0.28013261962152
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.163062 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C2636D7B-3170-4A57-8D4A-D013372B3CA9}
+      IID 124
+      NAME freesound_community-footsteps-boots-101657.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.42255468398986
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {47313558-5456-4C9E-AC4C-E5307AC4B3F9}
+      <SOURCE MP3
+        FILE "freesound_community-footsteps-boots-101657.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 1.49671887152754
+      SNAPOFFS 0
+      LENGTH 0.27057899572323
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.176705 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {07746821-1974-4C1E-97C4-365890932D76}
+      IID 25
+      NAME freesound_community-073303_footsteps-on-stone-39947.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.22942100427677
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5D85F7FA-8B43-42A3-8358-1874DA14F108}
+      <SOURCE MP3
+        FILE "freesound_community-073303_footsteps-on-stone-39947.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 2.40093265184385
+      SNAPOFFS 0
+      LENGTH 0.26340828412173
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.191443 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {40F01BA7-C9A4-48D5-B811-731D05C72D98}
+      IID 124
+      NAME freesound_community-footsteps-boots-101657.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.70268730361137
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6B13EBB-BE09-4D2D-9099-547A74D0FD28}
+      <SOURCE MP3
+        FILE "freesound_community-footsteps-boots-101657.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 2.47289824369755
+      SNAPOFFS 0
+      LENGTH 0.21493977306962
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.191443 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {105E2E6E-65D4-43A5-8C56-6B73E2A116DE}
+      IID 25
+      NAME freesound_community-073303_footsteps-on-stone-39947.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.78506022693038
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {876383E6-50E2-4238-8DF6-93F616AE733E}
+      <SOURCE MP3
+        FILE "freesound_community-073303_footsteps-on-stone-39947.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 3.18279533645912
+      SNAPOFFS 0
+      LENGTH 0.25922720024678
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.171424 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {46D7B9CB-63BF-4A8B-A412-93677DE33205}
+      IID 124
+      NAME freesound_community-footsteps-boots-101657.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.9660955877331
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84785BC7-5BEB-4F62-AEAC-331CC1068B05}
+      <SOURCE MP3
+        FILE "freesound_community-footsteps-boots-101657.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 3.25066717435066
+      SNAPOFFS 0
+      LENGTH 0.31935410471453
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.191355 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EB0BBAE5-D637-416F-BB4D-E5A82FD70B93}
+      IID 25
+      NAME freesound_community-073303_footsteps-on-stone-39947.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 2.36285117939078
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4BD80482-2E0A-4573-8593-B6EC5B83FF5C}
+      <SOURCE MP3
+        FILE "freesound_community-073303_footsteps-on-stone-39947.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 3.91866609844997
+      SNAPOFFS 0
+      LENGTH 0.25504611637183
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.184958 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4CF9A972-E781-4349-93F7-C05361E76B5B}
+      IID 124
+      NAME freesound_community-footsteps-boots-101657.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.22532278797987
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E88AFF3B-1B00-4713-A3FD-D78A500D6AF7}
+      <SOURCE MP3
+        FILE "freesound_community-footsteps-boots-101657.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 3.98875401670039
+      SNAPOFFS 0
+      LENGTH 0.28567691104202
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.184958 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BD53571F-CAB5-4E02-AFAD-DF37223E7A28}
+      IID 25
+      NAME freesound_community-073303_footsteps-on-stone-39947.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C9D17982-BB7C-4568-8F58-B5D5C6A72458}
+      <SOURCE MP3
+        FILE "freesound_community-073303_footsteps-on-stone-39947.mp3" 1
+      >
+    >
+  >
+  <TRACK {DE176B8A-3B5D-474B-ACEC-F89F0DECDED5}
+    NAME "Door Open "
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DE176B8A-3B5D-474B-ACEC-F89F0DECDED5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.3135812906211
+      SNAPOFFS 0
+      LENGTH 0.28431370349646
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.376298 0 1 0 0 0
+      FADEOUT 1.1 0 -0.091984 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B54FFF43-66BD-4B7F-90B0-F954C2CE5D6A}
+      IID 66
+      NAME freesound_community-floor-creak-1-73797.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 20.7002295563336
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A99E3A8-DFD9-4EFC-A248-5EBF9681F49D}
+      <SOURCE MP3
+        FILE "freesound_community-floor-creak-1-73797.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 0.39302188424511
+      SNAPOFFS 0
+      LENGTH 0.3135812906211
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 0 0 0
+      FADEOUT 1.1 0.313581 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {67E56939-DC0B-4CA1-80D6-820F1BE6057A}
+      IID 66
+      NAME freesound_community-floor-creak-1-73797.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 23.29164054633541
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9E7BFDBF-804D-44BD-AA2C-C8646D183CF7}
+      <SOURCE MP3
+        FILE "freesound_community-floor-creak-1-73797.mp3" 1
+      >
+    >
+  >
+  <TRACK {959E653E-687B-4293-861D-6FE9ECDBC649}
+    NAME "Door Close"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {959E653E-687B-4293-861D-6FE9ECDBC649}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1.2459629947345
+      SNAPOFFS 0
+      LENGTH 0.37662701906768
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0 0.259557 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0824D48F-C76A-49D6-8D09-2F34D8FA2E7B}
+      IID 66
+      NAME freesound_community-floor-creak-1-73797.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 23.05749984933834
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D05A1043-CE00-420A-835A-8C9431CD500E}
+      <SOURCE MP3
+        FILE "freesound_community-floor-creak-1-73797.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 1.32540358835851
+      SNAPOFFS 0
+      LENGTH 0.28849478737141
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0 0.250865 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EB9C60F9-FD1C-4384-A339-65177E6459C2}
+      IID 66
+      NAME freesound_community-floor-creak-1-73797.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 20.72531605963731
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {74886108-DF10-4EFD-9997-70D491B14847}
+      <SOURCE MP3
+        FILE "freesound_community-floor-creak-1-73797.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 1.36303334323303
+      SNAPOFFS 0
+      LENGTH 0.42228947136975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.250865 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {32447892-9B2F-439B-9255-A50804F6067D}
+      IID 133
+      NAME freesound_community-main-door-opening-closing-38280.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.68771597774248
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {061D1A36-FCB4-485B-9ABF-EF982874F2B8}
+      <SOURCE MP3
+        FILE "freesound_community-main-door-opening-closing-38280.mp3" 1
+      >
+    >
+  >
+>
